@@ -1,0 +1,135 @@
+ \q	
+ On considère une solution aqueuse contenant de l’acide éthanoïque.
+Le pKa du couple $CH_3COOH_{(aq)}/ CH_3COO^{-}_{(aq)}$  vaut 4,8 ;
+\rv
+  La forme $CH_3COO^{-}_{(aq)}$  prédomine  pour une solution de pH = 6,5 ;
+\r
+  Les formes $CH_3COOH_{(aq)}$ et $CH_3COO^{-}_{(aq)}$ sont présentes en quantités égales pour une solution de pH=7 ;
+\r
+  Si le pH de la solution vaut 8, celle-ci ne contient pas d’ions $H_3O^+_{(aq)}$.
+  \q
+  	On dispose d’un verre de jus d’orange (pH = 3,0) et d’une tasse de café (pH = 6,0). 
+\rv
+ 	Le jus d’orange contient des ions $HO^{-}_{(aq)}$ ; 
+\r
+ 	La concentration en ions $H_3O^+_{(aq)}$  est plus importante dans le café ;
+\rv
+ 	Les concentrations en ions $H_3O^+_{(aq)}$ sont dans un rapport de  1000.
+ \q	
+ On dispose d'une solution A d'acide éthanoïque $CH_3COOH$ de concentration  $c_A$  = 1,0 . 10$^{-2}$ mol.L$^{-1}$ dont le pH est égal à 3,4 et d'une solution B d'éthanoate de sodium $Na^{+}_{(aq)} + CH_3COO^{-}_{(aq)}$ de concentration  $c_B$  = 1,0 . 10$^{-2}$ mol.L$^{-1}$ dont le pH est égal à 8,2. 
+$pK_A$($CH_3COOH/ CH_3COO^{-}$) = 4,75 
+On verse 100 mL de chacune des solutions dans un bécher.
+\r
+  l'acide éthanoïque réagit de façon totale avec l'eau ;
+\rv
+  le pH du mélange est égal au pKA ;
+\r
+  le pH du mélange est modifié si l'on rajoute 100 mL d'eau.
+\q
+	Rappeler l’expression du produit ionique de l’eau.
+ \q	
+ Exprimer la constante d’acidité Ka du couple $NH_4^+/ NH_3$.
+ \q	
+ A 25° C, la concentration molaire des ions oxonium d’une solution est 1,0.10$^{-3}$ mol.L$^{-1}$ . 
+On donne Ke = 1,0 . 10$^{-14}$ 
+  \rv
+  pH = 3,0 ;
+ \rv La concentration molaire des ions hydroxyde est 1,0.10$^{-11}$ mol.L$^{-1}$ ;
+\r
+  La solution est basique.
+
+\q	
+On donne le produit ionique de l’eau : Ke = 1,0.10$^{-14}$ à 25°C.
+\rv
+	  Pour un couple HA/A-, l’espèce HA est prédominante lorsque pH est inférieur au pKa du couple ;
+\rv
+	  Plus la constante d’acidité Ka d’un couple acide/base est grande, plus l’acide est dissocié dans l’eau ;
+\r
+	  On peut écrire [$H_3O^+]_f = [HO^{-}]_f$ = 1,0.10$^{-7}$ mol.L$^{-1}$ quelle que soit la solution aqueuse étudiée ;
+\r	
+	  Le pH d’une solution aqueuse d’hydroxyde de sodium dans laquelle la concentration molaire en ions hydroxyde est 1,0.10$^{-3}$ mol.L$^{-1}$ a pour valeur pH = 3 
+ \q	
+ La réaction d’équation $2 H_2O(l) = H_3O^+_{(aq)}  + HO^{-}_{(aq)}$ présente la ou les propriétés suivantes :
+ \r
+  Elle ne se produit que dans l’eau pure ; 
+\r
+  $[H_3O^+] = [HO^{-}]$  dans toutes les solutions où elle se produit ;
+\rv
+  Elle a un avancement très faible dans l’eau pure.
+ \q	
+ Soit la réaction d’équation :	$2 H_2O(l) = H_3O^+_{(aq)}  +  HO^{-}_{(aq)}.$
+\rv
+  Elle correspond à une réaction acido-basique ;
+\rv
+  La constante d’équilibre associée est appelée Ke ; 
+\rv
+  Elle est appelée réaction d’autoprotolyse de l’eau ;
+ \r
+   Elle n’a lieu que dans l’eau pure.
+  \q
+ 	Quelle est l’expression de la constante d’acidité d’un acide noté AH ?
+  \q	Exprimer la constante d’acidité Ka du couple $HCOOH/HCOO^{-}$.
+   \q	On considère la réaction :	 $AH_{(aq)} + H_2O(l) = A^-_{(aq)} + H_3O^+_{(aq)}$
+\rv
+ 	Il s’agit d’une réaction acido-basique ;
+\r 	
+A l’équilibre : pH = pKa + log $\dfrac{[AH]}{[A^-]}$  ;
+\r
+ 	Si pH < pKa, l’espèce $A^-_{(aq)}$ est prédominante.
+ %\q	
+ %On étudie la réaction de l’acide méthanoïque dans l’eau :
+%$HCOOH_{(aq)} + H_2O(l) = HCOO^{-} _{(aq)} + H_3O^+_{(aq)}$ 
+%\rv
+%  La conductivité  de la solution est égale à : 
+%		$\sigma =  \lambda(H_3O^+)×[ H_3O^+] -  \lambda(HCOO^{-})×[ HCOO^{-}]$ ;
+%\r
+%  Le quotient de réaction s’écrit : $Qr =[ H_3O^+]×[ HCOO^{-}]$ ;
+%\rv
+%  Le quotient de réaction à l’équilibre Qr,f  est égal à la constante d’acidité du couple Ka .
+ \q	
+ Donner l’expression du Ka du couple dont l’acide a pour formule $HClO_{(aq)}$.
+  \q
+  	On dissout 0,10 mol d’ammoniac $NH_3(g)$ dans de l’eau distillée de façon à obtenir 200 mL de solution.
+Le pH de la solution est de 11,4 :
+On donne :    Ke=10$^{-14}$ ;     pKa ($NH_4^+/NH_3$)=  9,2 .
+\rv
+  La réaction de l’ammoniac sur l’eau est modélisée par $NH_{3(aq)} + H_2O(l) = NH_4^+ + HO^{-}_{(aq)}$ ;
+\r
+  L’ammoniac est une espèce acide ;
+\r
+  La constante d’équilibre K de la transformation est supérieure à  Ka
+ \q	
+ Un acide AH réagit totalement avec l’eau. Une solution aqueuse de cet acide a une concentration égale à 1,0 . 10$^{-3}$ mol.L$^{-1}$ 
+\rv
+  Le pH de cette solution est 3,0 ;
+\r
+  Lorsqu’on dilue cette solution, le pH diminue ;
+\r
+  Cette solution étant acide elle ne contient pas d’ions $HO^{-}$.
+  \q	
+  Soit la réaction suivante :$C_6H_5COOH_{(aq)} + H_2O  = C_6H_5COO^{-}_{(aq)} + H_3O^{+}$.   
+%\r
+%  On définit la conductivité du mélange par :  $\sigma$  = $\lambda(C_6H_5COOH) .[C_6H_5COOH] + \lambda(C_6H_5COO^{-}).[C6H5COO^{-}]$ ;
+\rv
+  C’est une réaction acido-basique ;
+\r
+  La constante d’équilibre s’écrit : $Q_{r’éq} =\dfrac{[C_6H_5COO^{-}][H_3O^{+}]}{[C_6H_5COOH][H_2O]}$   .
+   \q	
+   On prépare une solution $S_2$ d’acide formique (ou acide méthanoïque) de concentration        $c_2 = 5,0 . 10^{-3}$ mol.L$^{-1}$ à partir d’une solution $S_1$ d’acide formique de concentration $c_1 =1,0 . 10^{-1}$ mol.L$^{-1}$ 
+\rv
+  Pour la dilution on doit utiliser une éprouvette de 5 mL et une fiole jaugée de 100 mL ;
+\rv 
+ La réaction de l’acide avec l’eau s’écrit :
+$HCOOH_{(aq)}+H_2O(l) = HCOO^{-} _{(aq)}+ H_3O^+ _{(aq)}$ ;
+\rv
+  La constante d’équilibre de la réaction de l’acide formique dans l’eau s’écrit :
+		$Ka=\dfrac{[HCOO^{-}][H_3O^+]}{[HCOOH]}$   .
+ \q	
+ On s’intéresse aux espèces chimiques appartenant aux deux couples suivants :
+$HA_1/A_1^-$ (pKa1 = 3 ) et $HA_2/A_2^-$ ( pKa2 = 8 ).
+\r
+  Une réaction entre $A_1^-$ et $A_2^-$ est possible ;
+\rv 
+  La constante d’équilibre de la réaction entre $HA_1$ et $A_2^-$ a pour valeur 10$^{5}$ ;
+\rv
+  A la même concentration, l’acide le plus dissocié dans l’eau est $HA_1$ 
