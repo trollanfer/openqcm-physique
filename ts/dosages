@@ -1,0 +1,79 @@
+\q	
+  On considère la réaction de titrage de l’acide éthanoïque par la soude : 
+$CH_3COOH_{(aq)}  +  HO^{-} _{(aq)} =  CH_3COO^{-}_{(aq)}  +  H_2O$ 
+Données : 	 pKa1($CH_3COOH / CH_3COO^{-}$ ) = 4,8 ;
+			pKa2($H_2O /HO^{-} $) = 14 
+  \rv
+  La constante d’équilibre associée à la réaction de titrage est égale à 10$^{9,2}$ ;
+  \rv
+  Elle peut être suivie par pH-métrie ;
+  \r
+  A l’équivalence, le mélange est neutre.
+ \q	On réalise le titrage d’une solution d’acide éthanoïque par une solution d’hydroxyde de sodium. Le pH à l’équivalence est voisin de 4.
+ \rv
+  La réaction de titrage est considérée comme totale ;
+\rv 
+  La solution d’acide éthanoïque est versée progressivement à l’aide d’une burette ;
+\rv
+  L’hélianthine est l’indicateur coloré adapté à ce titrage (zone de virage : 3,1 - 4,4). 
+\q
+	On réalise le titrage d’une solution d’acide éthanoïque par une solution d’hydroxyde de sodium.
+\rv
+L’équation de la réaction est : $CH_3COOH_{(aq)} +  HO^{-}_{(aq)}  =  CH_3COO^{-}_{(aq)}  +  H_2O(l)$ .
+\rv
+  Les réactifs dans le mélange sont totalement consommés à l’équivalence ;
+\rv
+  La transformation peut être considérée comme totale ;
+\r
+L’équation de la réaction est : $H_3O^+ +  HO^{-}  = 2 H_2O$
+    \q	
+    Donner les caractéristiques d’une réaction de titrage.
+\q	
+On considère le titrage acido-basique entre une solution d’acide $CH_3COOH$ (de concentration $C_A$ et de volume $V_A$) et une solution basique d’hydroxyde de sodium (de concentration $C_B$). 
+A l’équivalence, on appelle $V_{BE}$ le volume versé et : 
+\rv
+  $C_A.V_A = C_B.V_{BE}$ ;
+\r
+  La solution obtenue est neutre (pHe =7)  ;
+\r
+  finalement, $n_f(CH_3COOH) = 0$ et $n_f(HO^{-}) = 0$ ;
+ \r
+  L’avancement maximal est nul.
+\q
+	Définir l’équivalence d’un titrage.
+  \q	La réaction  $2 H_2O (l) = H_3O^+_{(aq)} + HO^{-}$  
+\rv
+  Est une réaction acido-basique ;
+\r
+  Correspond à une réaction de titrage acido-basique ;
+\rv
+  Est appelée autoprotolyse de l’eau.
+  \q	On réalise le titrage pH-métrique de 20,0 mL d’une solution aqueuse d’acide méthanoïque de concentration inconnue par une solution d’hydroxyde de sodium de concentration molaire Cb = 1,0.10$^{-2}$  mol.L$^{-1}$ . 
+Le volume versé à l’équivalence est Veq = 18,0 mL.
+ \rv
+  La réaction de titrage doit être totale ;
+\r
+  Le prélèvement d’acide est réalisé à l’aide d’une éprouvette graduée ;
+\r
+  La réaction de titrage est 		$CH_3COOH + HO^{-} = CH_3COO^{-}  +  H_2O$ ;
+\rv
+  La concentration de la solution d’acide est C = 9,0.10$^{-3}$ mol.L$^{-1}$ .
+ \q
+ 	Lors d’un titrage acido-basique:
+\r
+  Le volume de la prise d’essai est mesuré avec une éprouvette graduée ;
+\rv
+  La concentration du réactif titrant est connue ;
+\r
+  L’utilisation d’un pH-mètre est indispensable pour repérer l’équivalence.
+ \q	
+ Comment déterminer graphiquement le point d’équivalence lors d'un titrage acido-basique ?
+ \q	
+ L'équation de la réaction de titrage entre les ions hydroxyde et oxonium s’écrit : 
+$H_3O^+_{(aq)} + HO^{-}_{(aq)} = 2 H_2O(l)$ , avec $Na^{+}_{(aq)}$ et $Cl^{-}_{(aq)}$ comme ions spectateurs.
+ \rv
+  Sa constante d’équilibre s’écrit K = $[H_3O^+]_{eq}.[HO^{-}]_{eq} $;
+\r
+  A l’équivalence, on obtient toujours de l’eau salée ;
+\rv
+  C’est une transformation totale.
