@@ -1,0 +1,79 @@
+\q
+Quel(s) type(s) de mouvement peut-on avoir lorsque le vecteur vitesse est constant ?
+\q	
+Énoncer la 1ère loi de Newton (ou principe d'inertie).
+\q
+	Donner deux exemples de référentiels supposés galiléens.
+ \q	
+ Indiquer l’expression vectorielle de la deuxième loi de Newton.
+\q
+	Le centre d’inertie G d’un système est animé d’un mouvement circulaire uniforme.
+\r
+  Le vecteur accélération de G est constant ;
+\rv
+  La valeur de la vitesse est constante ;
+\rv
+  La valeur de l’accélération est constante ;
+\rv
+  Le vecteur accélération   est normal à la trajectoire.
+\q	
+Donner l’expression vectorielle de la troisième loi de Newton (loi des actions réciproques).
+\q
+Lorsque l'on s'appuie sur un mur, celui-ci exerce une force
+\rv
+égale à celle que l'on exerce sur lui
+\r
+nulle
+\rv
+juste nécessaire à empêcher la main de s'enfoncer dans le mur
+\q
+Une force peut s'exprimer en
+\rv
+N
+\rv
+kg.m.s$^{-2}$
+\r
+m.s$^{-2}$
+\r
+kg.m.s$^{-1}$
+\q
+Un mobile se déplace suivant l'axe des x selon l'équation horaire $x(t)=-3t^{2}+2t+6$. Son accélération vaut :
+\rv
+autre réponse
+\r
+$-6t+2$
+\r
+-12
+\q
+Un mobile se déplace suivant l'axe des x selon l'équation horaire $x(t)=-3t^{2}+2t+6$. Sa vitesse s'écrit :
+\rv
+$-6t+2$
+\r
+-6
+\r
+$-3t+2$
+\q
+Un mobile se déplace suivant l'axe des x selon l'équation horaire $x(t)=-3\sin(2t)+4t$. Sa vitesse s'écrit 
+\rv
+$-6\cos(2t)+4$
+\r
+autre réponse
+\r
+$6\cos(2t)+4$
+\r
+$-3\cos(2t)+4$
+\r
+$3\cos(2t)+4$
+\q
+Un mobile se déplace sur l'axe des x. A l'instant $t=0$, il se trouve à l'abscisse x = 2 m, avec une vitesse nulle. Son accélération est de 3m.s$^{-2}$.
+L'équation horaire du mouvement est :
+\rv
+$1,5t^{2}+2$
+\r
+$3t^{2}+2$
+\r
+$1,5t^{2}+2t$
+\r
+$3t^{2}+2t$
+\r
+autre réponse
